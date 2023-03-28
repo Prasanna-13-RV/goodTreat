@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">newsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_title">Login with one of the options</string>
+    <string name="spaghetti_large_text">
+        "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain, toss spaghetti with 1 tablespoon olive oil, and set aside. \n\n"
+        "Place diced bacon in a large skillet over medium heat; cook and stir until evenly browned, about 10 minutes. Drain bacon on paper towels, reserving 2 tablespoons bacon fat in the skillet. \n\n"
+        "Add 1 tablespoon olive oil to bacon fat in the skillet. Add chopped onion and cook over medium heat until onion is translucent. Add minced garlic and cook until fragrant, about 1 minute. Add wine and cook 1 minute more. \n\n"
+        "Return cooked bacon to the skillet; add cooked spaghetti. Toss to coat and heat through, adding more olive oil if it seems dry or sticks together. Add beaten eggs and cook, tossing constantly with tongs or a large fork, until eggs are barely set. Quickly add 1/2 cup Parmesan cheese and toss again. Season with salt and pepper (remember that bacon and Parmesan are very salty). \n\n"
+        "Serve warm with chopped parsley sprinkled on top and extra Parmesan cheese at the table."
+    </string>
+    <string name="cinnamon_rolls_large_text">
+        "Gather all ingredients and lightly grease 2 round cake pans with butter.\n\n"
+        "Roll bread dough out to an 6x18-inch rectangle. Brush with melted butter\n\n"
+        "Combine brown sugar, walnuts, and cinnamon in a small bowl; sprinkle over butter.\n\n"
+        "Roll dough into a log, starting at the long edge. Moisten edge with water and seal.\n\n"
+        "Cut log into 20 slices; arrange rolls, cut sides down, in prepared cake pans. Cover with a towel and let rise in a warm place until doubled in volume, about 90 minutes.\n\n"
+        "Preheat oven to 350 degrees F (175 degrees C). Pour heavy cream over dough.\n\n"
+        "Bake in preheated oven until golden brown, about 25 minutes.\n\n"
+        "Mix confectioners' sugar, milk, and vanilla extract in a small bowl; drizzle over warm cinnamon rolls to serve.\n\n"
+    </string>
+
+    <string name="fluffy_scrambled_large_text">
+        "Whisk eggs with salt until completely combined and very foamy.\n\n"
+        "Melt butter in a skillet over low heat until bubbling. Add whisked eggs; cook, stirring frequently for even, moist curds, until thickened and creamy, but still shiny, 2 to 3 minutes.\n\n"
+        "Remove scrambled eggs from the pan before they begin to look dry, as they will continue to thicken off the heat.\n\n"
+        "Variation: Saute 1/4 cup chopped bell pepper and 1/4 cup chopped mushrooms in 1 tablespoon olive oil until soft, about 5 minutes. Stir into eggs just before serving.\n\n"
+        "You can add blistered tomatoes and shredded aged and/or soft cheeses to this if you like; add just before serving\n\n"
+
+    </string>
+
+    <string name="mayo_chicken_large_text">
+        "Preheat the oven to 350 degrees F (175 degrees C).\n\n"
+        "Place chicken pieces into a 9x13-inch baking dish. Stir together mayonnaise, garlic, rosemary, salt, and black pepper in a bowl. Spread mayonnaise mixture over chicken; top with Parmesan cheese.\n\n"
+        "Bake in the preheated oven until no longer pink in the center and the juices run clear, about 1 hour and 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).\n\n"
+    </string>
+
+    <string name="marzetti_large_text">
+        "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 7x11-inch casserole dish with cooking spray.\n\n"
+        "Bring a large pot of lightly salted water to a boil. Add rotini and cook until tender yet firm to the bite, 6 to 8 minutes; drain. Run cold water over pasta to stop it from cooking further.\n\n"
+        "While the pasta is cooking, cook ground beef and sausage in a large skillet over medium-high heat until completely browned and crumbly, 7 to 10 minutes. Add onion, celery, garlic, and bell pepper; cook and stir until vegetables are tender, about 5 minutes. Season with salt and pepper. Remove from the heat and stir in tomato sauce and diced tomatoes. Let cool for 5 minutes.\n\n"
+        "Spread pasta over the bottom of the prepared baking dish. Sprinkle Italian cheese blend over rotini, then pour meat sauce over top. Cover the dish with heavy-duty aluminum foil.\n\n"
+        "Bake in the preheated oven for 45 minutes. Remove the foil and sprinkle Cheddar cheese over the casserole. Continue to bake until Cheddar has melted, about 5 minutes. Rest for 10 minutes before serving.\n\n"
+    </string>
+
+    <string name="kalbi_large_text">
+        "Stir together soy sauce, brown sugar, water, green onions, garlic, and sesame oil in a bowl until sugar has dissolved\n\n"
+        "Place ribs in a large resealable plastic bag. Pour marinade over ribs. Seal the bag and refrigerate for 3 hours to overnight\n\n"
+        "Preheat an outdoor grill for medium-high heat; lightly oil the grate\n\n"
+        "Remove ribs from the bag; shake off excess marinade and discard marinade. Grill ribs on the preheated grill until meat is still pink but not bloody nearest the bone, 5 to 7 minutes per side.\n\n"
+    </string>
+    <string name="korean_bbq_large_text">
+        "Place ribs in a large pot and cover with cold water. Soak ribs in the refrigerator for 1 hour to pull out any blood. Drain\n\n"
+        "Combine Asian pear, onion, and garlic in a blender; blend until smooth. Pour into a large bowl and stir in soy sauce, brown sugar, honey, sesame oil, and black pepper. Add ribs to soy mixture; turn to coat evenly. Cover the bowl and marinate in the refrigerator, 8 hours to overnight.\n\n"
+        "Preheat an outdoor grill for high heat and lightly oil the grate\n\n"
+        "Remove ribs from marinade and cook on the preheated grill until meat is tender and the outside is crusty, 5 to 10 minutes per side. Discard marinade.\n\n"
+    </string>
+    <string name="gyro_bbq_large_text">
+        "Pulse onion in a food processor until finely chopped. Scoop onions onto the center of a towel, gather up the towel ends, and squeeze to remove liquid\n\n"
+        "Combine onions, lamb, beef, garlic, oregano, cumin, marjoram, rosemary, thyme, pepper, and salt in a large bowl. Mix with your hands until well combined. Cover and refrigerate 1 to 2 hours to allow the flavors to blend\n\n"
+        "Preheat the oven to 325 degrees F (165 degrees C).\n\n"
+        "Place the meat mixture into a food processor and pulse until finely chopped and the texture feels tacky, about 1 minute. Transfer to a 7x4-inch loaf pan, and pack down to make sure there are no air pockets.\n\n"
+        "Line a large roasting pan with a damp kitchen towel. Place the loaf pan in the center of the towel-lined roasting pan, and transfer it into the preheated oven. Carefully pour boiling water into the roasting pan until it comes halfway up the sides of the loaf pan.\n\n"
+        "Bake in the preheated oven until gyro meat is no longer pink in the center, about 45 minutes to 1 hour. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C).\n\n"
+        "Pour off any accumulated fat, and allow to cool slightly before slicing thinly and serving.\n\n"
+    </string>
+    <string name="burge_large_text">
+        "Preheat an outdoor grill for medium heat and lightly oil the grate\n\n"
+        "Mix ground lamb, garlic powder, rosemary, thyme, salt, and pepper together in a large bowl until thoroughly combined.\n\n"
+        "Shape mixture into 4 patties\n\n"
+        "Place patties on the preheated grill and cook until firm and slightly pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C). Alternately, you can cook the patties to your desired degree of doneness. Rest patties while assembling toppings.\n\n"
+        "Mix mayonnaise and mustard together in a small bowl\n\n"
+        "Spread 1 tablespoon on bottom of each hamburger bun; top each one with a lamb patty, tomato slice, and some greens. Sandwich with top bun to serve\n\n"
+    </string>
+    <string name="lamb_stew_large_text">
+        "Heat oil in a large skillet over medium-high heat. Add lamb and onions; cook and stir until lamb is browned and onions are starting to soften, about 5 minutes. Transfer lamb mixture to a slow cooker\n\n"
+        "Add potatoes, carrots, celery, and mushrooms. Stir in beef broth, tomato paste, beer, Worcestershire sauce, rosemary, salt, and pepper; cover.\n\n""Cook on High for 7 hours. Add peas and cook for an additional 15 minutes. Season with salt and pepper.\n\n"
+
+    </string>
+
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

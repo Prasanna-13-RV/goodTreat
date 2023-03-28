@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551036380991",
+    "project_id": "good-treat",
+    "storage_bucket": "good-treat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551036380991:android:df3878427ae879edfad58a",
+        "android_client_info": {
+          "package_name": "com.example.goodtreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551036380991-oo63ioar1a00sns5e7mvcrvvekcbrh5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvjvTgLTPhtAJRx2WBVYTSCVe6Y8FG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551036380991-4v2rsf3h7nlb92s3s2b4co76qtbo7m63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

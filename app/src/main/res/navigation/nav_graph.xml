@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/registerFragment">
+
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.example.goodtreat.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_registerFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.goodtreat.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_registerFragment"
+            app:destination="@id/registerFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_loginFragment_to_recipeFragment"
+            app:destination="@id/recipeFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/recipeFragment"
+        android:name="com.example.goodtreat.RecipeFragment"
+        android:label="fragment_recipe"
+        tools:layout="@layout/fragment_recipe" >
+        <action
+            android:id="@+id/action_recipeFragment_to_spaghettiFragment"
+            app:destination="@id/spaghettiFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_mayoChickenFragment"
+            app:destination="@id/mayoChickenFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_cinnamonRollsFragment"
+            app:destination="@id/cinnamonRollsFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_fluffyScrambledFragment"
+            app:destination="@id/fluffyScrambledFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_marzettiFragment"
+            app:destination="@id/marzettiFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_gyroMeatFragment"
+            app:destination="@id/gyroMeatFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_lambStewFragment"
+            app:destination="@id/lambStewFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_kalbibbqFragment"
+            app:destination="@id/kalbibbqFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_burgersFragment"
+            app:destination="@id/burgersFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/action_recipeFragment_to_bbqGalbiFragment"
+            app:destination="@id/bbqGalbiFragment"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/spaghettiFragment"
+        android:name="com.example.goodtreat.SpaghettiFragment"
+        android:label="fragment_spaghetti"
+        tools:layout="@layout/fragment_spaghetti" />
+    <fragment
+        android:id="@+id/mayoChickenFragment"
+        android:name="com.example.goodtreat.MayoChickenFragment"
+        android:label="fragment_mayo_chicken"
+        tools:layout="@layout/fragment_mayo_chicken" />
+    <fragment
+        android:id="@+id/cinnamonRollsFragment"
+        android:name="com.example.goodtreat.CinnamonRollsFragment"
+        android:label="fragment_cinnamon_rolls"
+        tools:layout="@layout/fragment_cinnamon_rolls" />
+    <fragment
+        android:id="@+id/fluffyScrambledFragment"
+        android:name="com.example.goodtreat.FluffyScrambledFragment"
+        android:label="fragment_fluffy_scrambled"
+        tools:layout="@layout/fragment_fluffy_scrambled" />
+    <fragment
+        android:id="@+id/marzettiFragment"
+        android:name="com.example.goodtreat.MarzettiFragment"
+        android:label="fragment_marzetti"
+        tools:layout="@layout/fragment_marzetti" />
+    <fragment
+        android:id="@+id/kalbibbqFragment"
+        android:name="com.example.goodtreat.KalbibbqFragment"
+        android:label="fragment_kalbibbq"
+        tools:layout="@layout/fragment_kalbibbq" />
+    <fragment
+        android:id="@+id/bbqGalbiFragment"
+        android:name="com.example.goodtreat.BbqGalbiFragment"
+        android:label="fragment_bbq_galbi"
+        tools:layout="@layout/fragment_bbq_galbi" />
+    <fragment
+        android:id="@+id/gyroMeatFragment"
+        android:name="com.example.goodtreat.GyroMeatFragment"
+        android:label="fragment_gyro_meat"
+        tools:layout="@layout/fragment_gyro_meat" />
+    <fragment
+        android:id="@+id/burgersFragment"
+        android:name="com.example.goodtreat.BurgersFragment"
+        android:label="fragment_burgers"
+        tools:layout="@layout/fragment_burgers" />
+    <fragment
+        android:id="@+id/lambStewFragment"
+        android:name="com.example.goodtreat.LambStewFragment"
+        android:label="fragment_lamb_stew"
+        tools:layout="@layout/fragment_lamb_stew" />
+</navigation>
