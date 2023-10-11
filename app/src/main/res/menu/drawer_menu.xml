@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addRecipeItem"
+        android:icon="@drawable/baseline_web_24"
+        android:title="Add Recipe" />
+    <item
+        android:id="@+id/myRecipeItem"
+        android:icon="@drawable/baseline_smart_display_24"
+        android:title="My Recipe" />
+</menu>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recipe_nav_graph"
+    app:startDestination="@id/showRecipesFragment">
+    <fragment
+        android:id="@+id/showRecipesFragment"
+        android:name="com.example.recipe.ui.fragment.remote.ShowRecipesFragment"
+        android:label="fragment_show_recipes"
+        tools:layout="@layout/fragment_show_recipes" >
+        <action
+            android:id="@+id/action_showRecipesFragment_to_addRecipeFragment"
+            app:destination="@id/addRecipeFragment" />
+        <action
+            android:id="@+id/action_showRecipesFragment_to_myRecipeFragment"
+            app:destination="@id/myRecipeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addRecipeFragment"
+        android:name="com.example.recipe.ui.fragment.firebase.AddRecipeFragment"
+        android:label="fragment_add_recipe"
+        tools:layout="@layout/fragment_add_recipe" />
+    <fragment
+        android:id="@+id/myRecipeFragment"
+        android:name="com.example.recipe.ui.fragment.firebase.MyRecipeFragment"
+        android:label="fragment_my_recipe"
+        tools:layout="@layout/fragment_my_recipe" >
+        <action
+            android:id="@+id/action_myRecipeFragment_to_addRecipeFragment"
+            app:destination="@id/addRecipeFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687227712554",
+    "firebase_url": "https://mygoodtreat-default-rtdb.firebaseio.com",
+    "project_id": "mygoodtreat",
+    "storage_bucket": "mygoodtreat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687227712554:android:c74d2bdfae120864c7bf53",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5k9EjJttS2_f8p9E6xY_slB-wTzYCns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
